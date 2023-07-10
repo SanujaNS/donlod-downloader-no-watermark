@@ -9,7 +9,7 @@
         "node": ">=18"
     },
     "scripts": {
-        "start": "node src/donlod",
+        "start": "node src/donlod.js",
         "setup": "node src/modules/setup",
         "test": "node src/test/test"
     },
