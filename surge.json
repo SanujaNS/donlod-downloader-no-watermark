@@ -2,6 +2,6 @@
     "project": "./dist",
     "domain": "donlod.surge.sh",
     "gateway": "http://localhost",
-    "port": "9000"
+    "port": "6460"
   }
   
